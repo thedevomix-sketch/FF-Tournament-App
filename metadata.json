@@ -1,0 +1,5 @@
+{
+  "name": "Smart FF Tournament",
+  "description": "A professional Free Fire tournament management platform with real-time leaderboards, automated scoring, and admin controls.",
+  "requestFramePermissions": ["geolocation"]
+}
